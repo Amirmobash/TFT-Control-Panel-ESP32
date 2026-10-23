@@ -1,0 +1,15 @@
+ESP32 CONTROL PANEL — REPOSITORY DOCUMENTATION UPGRADE
+
+This archive contains a carefully rewritten bilingual documentation package, NOT a copy of the firmware sources.
+The existing repository source files MUST be retained. Do not replace the entire repository with this documentation-only ZIP.
+
+For a complete source + documentation ZIP on Windows:
+1. Extract this ZIP.
+2. Run build-complete-repository.ps1 in PowerShell. If your execution policy prevents scripts, inspect the script before deciding whether to allow it.
+3. The script downloads the official main-branch GitHub archive, replaces README.md, adds README.de.md, HARDWARE.md and SECURITY.md, and produces an upload-ready ZIP.
+4. Review all changes and firmware configuration before committing. This process DOES NOT MODIFY firmware code.
+
+Repository: https://github.com/Amirmobash/TFT-Control-Panel-ESP32
+Note: The provided URL with three hyphens currently redirects to the canonical URL above.
+
+Not guaranteed: firmware compiles; hardware meets safety standards; Google indexing or ranking.

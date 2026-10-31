@@ -1,0 +1,17 @@
+{
+  "core": "esp32:esp32@2.0.17",
+  "fqbn": "esp32:esp32:esp32",
+  "libs": [
+    "Adafruit BusIO@1.17.0",
+    "Adafruit GFX Library@1.12.1",
+    "Adafruit ILI9341@1.6.2"
+  ],
+  "sources": [
+    "glatter sensor.ino",
+    "sketch_oct28a.ino",
+    "glatterc28a.ino",
+    "complete presur.cpp",
+    "Pressure Sensor Calibration Code.cpp"
+  ],
+  "url": "https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32_index.json"
+}

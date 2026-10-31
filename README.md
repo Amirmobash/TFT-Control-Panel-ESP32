@@ -61,3 +61,7 @@ See [HARDWARE.md](HARDWARE.md), [SECURITY.md](SECURITY.md) and [README.de.md](RE
 No physical testing, new hardware photographs or measured electrical/optical
 performance is claimed. Retain the author attribution and existing license/source
 notices when reusing the project.
+
+## License
+
+**No standalone license file is committed.** Until the owner explicitly chooses and publishes a license, do not assume the source is under MIT, GPL or another open-source license. Existing source notices may impose additional restrictions.
